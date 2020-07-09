@@ -3,3 +3,7 @@ description: PhD Candidate of Nuclear Engineeering
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+
+Navigation:
+- text: Research
+  url: /research
