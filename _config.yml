@@ -5,5 +5,14 @@ google_analytics:
 theme: jekyll-theme-slate
 
 Navigation:
+- text: About Me
+  url: /
+  
 - text: Research
   url: /research
+  
+-text: CV
+ url: /CV
+ 
+-text: Projects
+ url: /projects
