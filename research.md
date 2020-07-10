@@ -25,9 +25,9 @@ GaN can be fabricated into numerous electronic components and has vast electroni
 
 ## Gamma-Gamma Coincidence Detection
 <p align="justify">
-Test text
+Many nuclear decay modes result in the almost instantaneous emission of multiple gamma rays, said to be in coincidence. Gamma-gamma coincidence detection can detect these decays, by using multiple detectors with time stamping capabilities. Coincidence detection can greatly suppress the background, and therefore notably improve the signal-to-noise ratio (SNR). In addition, the temporal element of this method can allow for detection of signatures that are otherwise very difficult to detect. This project aimed to access, optimize, and compare coincidence systems of HPGe and LaBr3 detectors. Results showed that while HPGe has the typically expected benefits associated with higher energy resolution, LaBr3 detectors could operate in coincidence at much higher count rates. I got involved with this project during my undergrad, and it was my first exposure to radiation detection research. It was a great opportunity, and in addition to general assistance, I was tasked with determining the optimal timing window of each system.
 </p>
 ## Rotation Based Neutron Detection
 <p align="justify">
- Test Text
+A robotics team in collaboration with nuclear researchers developed a technique to characterize and map neutron sources remotely in old hot cells and radiation storage vaults. As part of that project, I characterized the response and rotational dependence of a B-10 based neutron detector with and with out shielding.
 </p>
