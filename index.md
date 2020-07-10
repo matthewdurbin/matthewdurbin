@@ -13,7 +13,7 @@ Hello! My name is Matthew Duribn, and I am a PhD Candidate at the [Ken and Mary 
 </p>
 
 <p align="center">
-You can contact me at <mdurbin@psu.edu>. 
+You can contact me at <a href="mailto:mdurbin@psu.edu">mdurbin@psu.edu.</a> 
 <p>
 
 
