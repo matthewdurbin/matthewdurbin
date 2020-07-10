@@ -11,8 +11,8 @@ Navigation:
 - text: Research
   url: /research
   
--text: CV
- url: /CV
+- text: CV
+  url: /CV
  
 -text: Projects
  url: /projects
