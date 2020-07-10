@@ -19,7 +19,15 @@ Many detector types, like organic scintillators, are sensitive to both neutron a
 
 # Past Research
 ## Radiation Dammage in Gallium Nitride (GaN)
+<p align="justify">
+GaN can be fabricated into numerous electronic components and has vast electronic applications. Advances in growth techniques from recent years have allowed for a new crystal orientation: “N-face” GaN. N-face GaN has a few benefits over more common Ga-face GaN, including being faster and having the ability to operate at higher powers. This project has the goal of quantifying N-face GaN in terms of radiation damage and tolerance and comparing it to other orientations. I worked on this project my first year of graduate school and focused on the effects of gamma rays. I largely utilized MCNP to create simulations that correlated exposure to dose and interaction, when fed into calculations to quantify displacements and damage. I also got the opportunity to take part in irradiations at PSU, and Pacific Northwest National Laboratory (PNNL) in their High Exposure Facility (HEF).
+</p>
 
 ## Gamma-Gamma Coincidence Detection
-
+<p align="justify">
+Test text
+</p>
 ## Rotation Based Neutron Detection
+<p align="justify">
+ Test Text
+</p>
