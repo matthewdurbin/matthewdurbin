@@ -21,6 +21,7 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
 
 # Publications and Proceedings:
 <a> <i class="fa fa-powerpoint" ></i> Podium </a>
+<i class="fa fa-file" style="font-size:35px;">
 
 [Journal] Matthew Durbin, Azaree Lintereur, 2020, “Implementation of machine learning algorithms for detecting missing radioactive material”, Journal of Radioanalytical and Nuclear Chemistry
 
