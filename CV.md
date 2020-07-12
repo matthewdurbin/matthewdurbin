@@ -20,7 +20,7 @@ Undergraduate Research Assistant (2015-2017): Nuclear Engineering Teaching Labor
 STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin, Texas
 
 # Publications and Proceedings:
-<span>
+<span class="v-center">
  <i class="fa fa-book"> </i> - Journal 
  <i class="fa fa-bookmark"> </i> - Proceedings 
  <i class="fa fa-file"> </i> - Summary 
