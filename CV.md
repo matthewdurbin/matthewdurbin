@@ -20,9 +20,14 @@ Undergraduate Research Assistant (2015-2017): Nuclear Engineering Teaching Labor
 STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin, Texas
 
 # Publications and Proceedings:
-<i class="fa fa-book"> </i>
-<i class="fa fa-file-powerpoint-o" ></i> Poster
-<i class="fa fa-file"> </i>
+<i class="fa fa-book"> </i> - Journal 
+<i class="fa fa-bookmark"> </i> - Proceedings 
+<i class="fa fa-file"> </i> - Summary 
+<i class="fa fa-file-powerpoint-o" ></i> - Podium 
+<i class="fa fa-columns" ></i> - Poster 
+<i class="fa fa-trophy" ></i> - Poster 
+
+
 
 [Journal] Matthew Durbin, Azaree Lintereur, 2020, “Implementation of machine learning algorithms for detecting missing radioactive material”, Journal of Radioanalytical and Nuclear Chemistry
 
