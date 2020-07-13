@@ -57,13 +57,13 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
 
 # Service and Leadership
 ## Leadership Positions
-**President** Penn State Student Chapter - Institute of Nuclear Materials Management - 2019-... 
+**President** - Penn State Student Chapter - Institute of Nuclear Materials Management - 2019-... 
 
-**Treasurer** Penn State Student Chapter - Institute of Nuclear Materials Management - 2017-2019
+**Treasurer** - Penn State Student Chapter - Institute of Nuclear Materials Management - 2017-2019
 
-**Secretary** Penn State Student Chapter - Alpha Nu Sigma - 2018-2019
+**Secretary** - Penn State Student Chapter - Alpha Nu Sigma - 2018-2019
 
-**Outreach Chair** University of Texas Student Chapter - Society of Physics Students - 2015-2016
+**Outreach Chair** - University of Texas Student Chapter - Society of Physics Students - 2015-2016
     
 ## Conference Chair
 **Institute of Nuclear Materials Management Annual Meeting** - Virtual, Detection - *Nuclear Protection and Physical Security: Detection* - 2020
