@@ -2,6 +2,7 @@
 layout: default
 title: CV
 ---
+# Involvement
 ## Institute of Nuclear Materials Management
 Over the past few years, I’ve gotten the chance to be really involved with INMM. From 2018-2019 I served as the treasurer of the PSU chapter, and am currently the [PSU chapter](https://sites.psu.edu/inmm/) president. As treasurer, I secured funding from various sources for our student members to attend 2 annual conferences, a workshop at the Pacific Northwest National Laboratory, and a tour of the Brookhaven National Laboratory. As president, I’ve run weekly meetings revolving around student research and special topic presentations, and served as the liaison between our chapter, Penn State, and the INMM parent organization. Additionally, I organized funding for the 2020 virtual meeting to reduce the costs of attendance for our members. A big effort for 2020 was a Risk Quantification Workshop we we’re going to host at Penn State, in conjunction with the North East Chapter and Nuclear Security and Physical Protection technical division. Unfortunately due to the Coronavirus, it has been postponed.  In working with other officers, I’ve also organized several out reach events including PSU’s “Haunted U”. As a student member, I’ve presented at two annual meetings and received a student paper award. Additionally, I was a member of our chapters “Student Research Initiative” in 2019, which also received a student paper award.
 
@@ -18,3 +19,16 @@ As is almost universally common among nuclear engineers, I am a supporter of Nuc
 
 ## Society of Physics Students/ Sigma Pi Sigma
 In undergrad, I was heavily involved with the Society of Physics Students and served as Out Reach Coordinator my junior year. In that capacity, I engaged in various open house type opportunities on campus, promoted the club around the department, and participated in our bi-weekly fundraiser in which we sold Pizza to raise money for our Pizza Funds! I was inducted into Sigma Pi Sigma, the physics honor society, that year.
+
+# Teaching and Mentoring
+## Teaching
+ - Teaching Assistant: NucE 450 Radiation Detection Laboratory (PSU-2019)
+ - Teaching Assistant: ME 361 F Radiation and Radiation Protection Laboratory (UT-2017)
+
+I have TA’d two radiation laboratory courses and really enjoyed both experiences. At UT, I led groups of students through a neutron measurement and  shielding lab. Here, we used He-3 and B-10 based neutron detectors and took various measurements with a Cf-252 source. The most fun part of the lab was the shielding design competition in which each team was allowed a set distance and various materials to reduce the neutron count as much as possible. At PSU, I led students through various labs ranging from GM-tube measurements, to Neutron Activation Analysis, to using a fruit can and amplification chip to make a detector! In addition to leading the students through the lab, I also graded lab reports, hosted officers hours, and led a recitation session before each test.
+
+## Mentoring
+ - 2 undergraduate research assistants
+ - 3 undergraduate summer interns
+
+My first experience with radiation detection was not though a course or textbook, but with a senior student who “showed me the ropes.” He taught me how to collect and analyze gamma ray spectroscopy and coincidence data my junior year. Armed with the skills he taught me, I collected my own data that later contributed to a paper and his thesis! From the beginning, students mentoring other students has been very important and personal to me, and it is largely the reason I’m here today! Since starting graduate school, I have gotten to mentor five undergraduate students (some of whom are now graduated, and some of whom are way smarter than me!).  Three of these students have been apart of a summer internship program, in which they largely worked with me on a day-to-day basis over a summer to work towards their project goals. More longer term, I have also mentored two undergraduate research assistants to assist me with simulations, experiments, and data analysis for the various projects I’ve worked on over the years. Where possible, as was the case when I was an undergrad, I’ve encouraged the students to be involved with conference or paper submissions. While Covid-19 has put much of these efforts on hold, I hope to continuing mentoring efforts in the future.
