@@ -55,6 +55,23 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
 
 <i class="fa fa-book"> </i>  A. Drescher, M. Yoho, S. Landsberger, **M. Durbin**, *et. al.* *Gamma-gamma Coincidence Performance of LaBr3:Ce Scintillation Detectors vs HPGe Detectors in High Count-Rate Scenarios*, App. Rad. and Isot. 112, 2017.
 
+# Service and Leadership
+## Leadership Positions
+**President** Penn State Student Chapter - Institute of Nuclear Materials Management - 2019-... 
+
+**Treasurer** Penn State Student Chapter - Institute of Nuclear Materials Management - 2017-2019
+
+**Secretary** Penn State Student Chapter - Alpha Nu Sigma - 2018-2019
+
+**Outreach Chair** University of Texas Student Chapter - Society of Physics Students - 2015-2016
+    
+## Conference Chair
+**Institute of Nuclear Materials Management Annual Meeting** - Virtual, Detection - *Nuclear Protection and Physical Security: Detection* - 2020
+
+**IEEE Nuclear Science Symposium** - Manchester, UK, *Neutron Detectors and Gamma Imaging II* -2019
+
+**International Conference on the Applications of Nuclear Techniques** - Crete, Greece, *Poster Session* - 2019
+
 # Skills
 - **Coding:** Python (NumPy, pandas, SciPy, matplotlib, SQLite, Fire, Twine, scikit-learn, TensorFlow), SQL, Matlab, MS Excel, \LaTeX, Arduino 
 - **Radiaiton Transport:** MCNP (PTRAC, VisEd)
