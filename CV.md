@@ -66,7 +66,7 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
 **Outreach Chair** - University of Texas Student Chapter - Society of Physics Students - 2015-2016
     
 ## Conference Chair
-**Institute of Nuclear Materials Management Annual Meeting** - Virtual, Detection - *Nuclear Protection and Physical Security: Detection* - 2020
+**Institute of Nuclear Materials Management Annual Meeting** - Virtual, *Nuclear Protection and Physical Security: Detection* - 2020
 
 **IEEE Nuclear Science Symposium** - Manchester, UK, *Neutron Detectors and Gamma Imaging II* -2019
 
