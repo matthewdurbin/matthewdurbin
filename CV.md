@@ -82,12 +82,12 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
 ## Fellowships and Scholarships
 **Nuclear Regulatory Commission Graduate Fellowship Program** - 2019- ... 
 
-**{Nuclear Regulatory Commission Undergraduate Scholarshi** 2015-2017
+**Nuclear Regulatory Commission Undergraduate Scholarshi** - 2015-2017
 
 ## Awards ##
-**J. D. Williams Student Paper Award** *2019 Division Finalist: Nuclear Security and Physical Protection* - Development of Machine Learning Algorithms for Directional Gamma Ray Detector
+**J. D. Williams Student Paper Award** - *2019 Division Finalist: Nuclear Security and Physical Protection* :Development of Machine Learning Algorithms for Directional Gamma Ray Detector
 
-**J. D. Williams Student Paper Award** *2019 Education & Training Student Research Initiative Winner* -Future Technical and Policy Challenges in Nuclear Security and Physical Protection
+**J. D. Williams Student Paper Award** - *2019 Education & Training Student Research Initiative Winner* :Future Technical and Policy Challenges in Nuclear Security and Physical Protection
 
 ## Grants
 **Valentin T. Jordanov Radiation Instrumentation Travel Grant** - 2019
