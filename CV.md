@@ -5,7 +5,7 @@ title: CV
  <h1 align="center" class="v-center">
   <span>
             <a href="assets/MDurbin_sCV.pdf"> <i class="fa fa-file" > </i> - CV: Short Form</a>
-            <a href="assets/MDurbin_CV.pdf"><i class="fa fa-file" > </i><i class="fa fa-file" > </i><i class="fa fa-file" > </i> - CV: Long Form</a>
+            <a href="assets/MDurbin_CV.pdf"><i class="fa fa-file" > &nbsp;</i><i class="fa fa-file" > &nbsp;</i><i class="fa fa-file" > </i> - CV: Long Form</a>
   </span>
  </h1>
  
