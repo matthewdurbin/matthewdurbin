@@ -2,7 +2,10 @@
 layout: default
 title: CV
 ---
-UNDER CONSTRUCTION
+ <p align="center" class="v-center">
+            <a href="assets/MDurbin_sCV.pdf"> <i class="fa fa-file" style="font-size:35px;"> </i> - CV: Short Form</a>
+            <a href="assets/MDurbin_CV.pdf"><i class="fa fa-file" style="font-size:35px;"> </i><i class="fa fa-file" style="font-size:35px;"> </i><i class="fa fa-file" style="font-size:35px;"> </i> - CV: Long Form</a>
+ </p>
 # Education:
 PhD in Nuclear Engineering (Expected May of 2022): The Pennsylvania State University
 
