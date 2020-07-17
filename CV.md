@@ -49,7 +49,7 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
  
 <i class="fa fa-columns" ></i> M. Wonders, P. Simon, **M. Durbin**, *et. al.* *The Future of Nuclear Energy: Small Modular Reactors and Generation IV, A New Hope*, Research to Action: The Science of (Project) Drawdown, University Park, Pennsylvania, USA, 2019 
  
-<i class="fa fa-bookmark"> </i>  M. Wonders, **M. Durbin**, *et. al.* *Nuclear Security \& Physical Protection Challenges from 2020-2040: Security in the Virtual Realm*, Inst. of Nucl. Mat. Mang. Annual Meeting, Palm Desert, California, USA, 2019. <i class="fa fa-trophy" ></i>
+<i class="fa fa-bookmark"> </i>  M. Wonders, **M. Durbin**, *et. al.* *Nuclear Security & Physical Protection Challenges from 2020-2040: Security in the Virtual Realm*, Inst. of Nucl. Mat. Mang. Annual Meeting, Palm Desert, California, USA, 2019. <i class="fa fa-trophy" ></i>
 
 <i class="fa fa-file-powerpoint-o" ></i><i class="fa fa-bookmark"> </i>   **M. Durbin**, *et. al.* *Development of Machine Learning Algorithms for Directional Gamma Ray Detection*, Inst. of Nucl. Mat. Mang. Annual Meeting, Palm Desert, California, USA, 2019. <i class="fa fa-trophy" ></i>
 
