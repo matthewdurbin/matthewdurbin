@@ -35,6 +35,11 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
  <i class="fa fa-trophy" ></i> - Award 
 </span>
 
+
+<i class="fa fa-book"> </i> **M. Durbin**, M. WOnders, M. Flaska, A. Lintereur. *K-Nearest Neighbors Regression for the Discrimination of Gamma Rays and Neutrons in Organic Scintillators*, Nucl. Inst. Meth. A, 2020 - *Forthcoming* 
+
+<i class="fa fa-book"> </i>  **M. Durbin**, C. Balbier, A. Lintereur. *Development of a Fully Connected Residual Neural Network for Directional Gamma Ray Detection*, Int. J. Mod. Phys: Conf. Ser., 50, 2020
+
 <i class="fa fa-file-powerpoint-o" ></i> <i class="fa fa-bookmark"> </i>   **M. Durbin**, A. Lintereur. *Machine Learning Approaches to Determine Missing Material from Nuclear Fuel Assemblies*, Inst. of Nucl. Mat. Mang. Annual Meeting, Virtual, 2020.
 
 <i class="fa fa-columns" ></i> <i class="fa fa-bookmark"> </i>   **M. Durbin**, M. Wonders, M. Flaska, A. Lintereur. *Optimization of a K-Nearest Neighbors Regression Algorithm for Improved Pulse Shape Discrimination of Gamma Rays and Neutrons in Organic Scintillators*, Inst. of Nucl. Mat. Mang. Annual Meeting, Virtual, 2020. <i class="fa fa-trophy" ></i>
