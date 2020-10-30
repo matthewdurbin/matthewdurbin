@@ -56,9 +56,9 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
  
 <i class="fa fa-bookmark"> </i>  M. Wonders, **M. Durbin**, *et. al.* *Nuclear Security & Physical Protection Challenges from 2020-2040: Security in the Virtual Realm*, Inst. of Nucl. Mat. Mang. Annual Meeting, Palm Desert, California, USA, 2019. <i class="fa fa-trophy" ></i>
 
-<i class="fa fa-file-powerpoint-o" ></i><i class="fa fa-bookmark"> </i>   **M. Durbin**, *et. al.* *Development of Machine Learning Algorithms for Directional Gamma Ray Detection*, Inst. of Nucl. Mat. Mang. Annual Meeting, Palm Desert, California, USA, 2019. <i class="fa fa-trophy" ></i>
+<i class="fa fa-file-powerpoint-o" ></i> <i class="fa fa-bookmark"> </i>   **M. Durbin**, *et. al.* *Development of Machine Learning Algorithms for Directional Gamma Ray Detection*, Inst. of Nucl. Mat. Mang. Annual Meeting, Palm Desert, California, USA, 2019. <i class="fa fa-trophy" ></i>
 
-<i class="fa fa-file-powerpoint-o" ></i> <i class="fa fa-book"> </i>  **M. Durbin**, C. Balbier, A. Lintereur. *Development of a Fully Connected Residual Neural Network for Directional Gamma Ray Detection*, Int. Conf. App. Nucl. Tech., Creete, Greece, 2019. *Accepted - Int. J. Mod. Phys: Conf. Ser.*
+<i class="fa fa-file-powerpoint-o" ></i>  **M. Durbin**, C. Balbier, A. Lintereur. *Development of a Fully Connected Residual Neural Network for Directional Gamma Ray Detection*, Int. Conf. App. Nucl. Tech., Creete, Greece, 2019. 
 
 <i class="fa fa-columns" ></i>  **M. Durbin**, *et. al*. *Machine Learning Applications in Directional Gamma Ray Detection*, PSU Inst. Comp. Data Sci. Symp., University Park, Pennsylvania, USA, 2019
 
