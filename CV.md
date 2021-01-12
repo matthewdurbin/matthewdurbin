@@ -35,6 +35,7 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
  <i class="fa fa-trophy" ></i> - Award 
 </span>
 
+<i class="fa fa-book"> </i> R. Sheatsley, **M. Durbin**, A. Lintereur, P. McDaniel. *Improving Radioactive Material Localization by Leveraging Cyber-Security Model Optimizations*, IEEE Sensors,  2021 - (*Accepted - Under Revisions*)  
 
 <i class="fa fa-book"> </i> **M. Durbin**, M. Wonders, M. Flaska, A. Lintereur. *K-Nearest Neighbors Regression for the Discrimination of Gamma Rays and Neutrons in Organic Scintillators*, Nucl. Inst. Meth. A, 987,  2021  
 
