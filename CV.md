@@ -4,8 +4,8 @@ title: CV
 ---
  <h2 align="center" class="v-center">
 
-            <a href="assets/MDurbin_CV_short.pdf"> <i class="fa fa-file" > </i> - CV: Short Form</a> &nbsp; &nbsp; &nbsp;
-            <a href="assets/MDurbin_CV.pdf"><i class="fa fa-file" > &nbsp;</i><i class="fa fa-file" > &nbsp;</i><i class="fa fa-file" > </i> - CV: Long Form</a>
+            <a href="assets/MDurbin_CV_short.pdf"> <i class="fa fa-file" > </i> - CV: Short</a> &nbsp; &nbsp; &nbsp;
+            <a href="assets/MDurbin_CV.pdf"><i class="fa fa-file" > &nbsp;</i><i class="fa fa-file" > &nbsp;</i><i class="fa fa-file" > </i> - CV: Long</a>
 
  </h2>
  
@@ -35,7 +35,7 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
  <i class="fa fa-trophy" ></i> - Award 
 </span>
 
-<i class="fa fa-book"> </i> R. Sheatsley, **M. Durbin**, A. Lintereur, P. McDaniel. *Improving Radioactive Material Localization by Leveraging Cyber-Security Model Optimizations*, IEEE Sensors,  2021 - (*Accepted - Under Revisions*)  
+<i class="fa fa-book"> </i> R. Sheatsley, **M. Durbin**, A. Lintereur, P. McDaniel. *Improving Radioactive Material Localization by Leveraging Cyber-Security Model Optimizations*, IEEE Sensors,  2021 - (*To Appear*)  
 
 <i class="fa fa-book"> </i> **M. Durbin**, M. Wonders, M. Flaska, A. Lintereur. *K-Nearest Neighbors Regression for the Discrimination of Gamma Rays and Neutrons in Organic Scintillators*, Nucl. Inst. Meth. A, 987,  2021  
 
@@ -93,6 +93,8 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
 **Nuclear Regulatory Commission Undergraduate Scholarship** - 2015-2017
 
 ## Awards ##
+**INMM J. D. Williams Student Paper Award** - *2020 Best Student Poster: Nuclear Security and Physical Protection* :Optimization of a K-Nearest Neighbors Regression Algorithm for Improved Pulse ShapeDiscrimination of Gamma Rays and Neutrons in Organic Scintillators
+
 **INMM J. D. Williams Student Paper Award** - *2019 Division Finalist: Nuclear Security and Physical Protection* :Development of Machine Learning Algorithms for Directional Gamma Ray Detector
 
 **INMM J. D. Williams Student Paper Award** - *2019 Education & Training Student Research Initiative Winner* :Future Technical and Policy Challenges in Nuclear Security and Physical Protection
