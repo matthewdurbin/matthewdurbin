@@ -93,6 +93,8 @@ STEM Substitute Teacher (2014-2015): Austin Independent School District, Austin,
 **Nuclear Regulatory Commission Undergraduate Scholarship** - 2015-2017
 
 ## Awards ##
+**IEEE NPSS Graduate Scholarship Award** - 2021
+
 **INMM J. D. Williams Student Paper Award** - *2020 Best Student Poster: Nuclear Security and Physical Protection* :Optimization of a K-Nearest Neighbors Regression Algorithm for Improved Pulse ShapeDiscrimination of Gamma Rays and Neutrons in Organic Scintillators
 
 **INMM J. D. Williams Student Paper Award** - *2019 Division Finalist: Nuclear Security and Physical Protection* :Development of Machine Learning Algorithms for Directional Gamma Ray Detector
