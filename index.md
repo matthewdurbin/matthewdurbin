@@ -12,7 +12,7 @@ Hello! My name is Matthew Durbin, and I am a PhD Candidate at the <a href="https
 
 I research radiation detection applications for homeland security and nuclear safeguards and try to leverage machine learning in that domain space. Over the years, I have worked with many different types of detectors and read-out systems and have used various machine learning models and techniques to extract information from the data those systems produce. I hope to continue working on radiation detection system and algorithm development upon completion of my PhD.
 
-I am originally from Texas and obtained a BS in Physics from The University of Texas at Austin in 2017. Outside of my research, I am heavily involved with the <a href="https://www.inmm.org/">Institute of Nuclear Materials Management</a> and am a previous President of Penn State’s Student Chapter. Outside of work, I enjoy reading, traveling, hiking, and bread making. 
+I am originally from Texas and obtained a BS in Physics from The University of Texas at Austin in 2017. Outside of my research, I am heavily involved with the <a href="https://www.inmm.org/">Institute of Nuclear Materials Management</a> and am a previous President of Penn State’s Student Chapter. For fun, I enjoy reading, traveling, hiking, and bread making. 
 
 
 <p align="center">
