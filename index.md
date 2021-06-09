@@ -16,7 +16,7 @@ I am originally from Texas and obtained a BS in Physics from The University of T
 
 
 <p align="center">
-You can contact me at <a href="mailto:mdurbin@psu.edu">mdurbin@psu.edu</a> or <a href="mailto:contact@matthewdurb.in">contact@matthewdurb.in.</a>
+You can contact me at <a href="mailto:mdurbin@psu.edu">mdurbin@psu.edu</a> or <a href="mailto:contact@matthewdurb.in">contact@matthewdurb.in</a>.
 <p>
 
 
